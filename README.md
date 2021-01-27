@@ -29,6 +29,7 @@ The accuracy has been increased from 93% (of the model in the original repositor
 while the loss has been decreased (as apparent from the accuracy/loss training curve plot).
 
 ---
-  
+
+\  
 
 \[...\]
