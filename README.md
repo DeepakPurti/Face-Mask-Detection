@@ -18,6 +18,7 @@ Increased accuracy, decreased loss.
 ![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/plot.png)
 
 #### The overall accuracy of the model is ∼95%, as given in the classification report.
+
 ![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/classification_report.png)
 
 \[...\]
