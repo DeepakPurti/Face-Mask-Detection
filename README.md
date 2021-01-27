@@ -19,7 +19,7 @@ This dataset consists of __4,555 images__ belonging to two classes:
 
 ![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/classification_report.png)
 
-The accuracy has been increased from 93% (of the model in the original repository) to 95%, 
+The accuracy has been increased from 93% (of the model in the original repository) to 95%,  
 while the loss has been decreased (as apparent from the accuracy/loss training curve plot).
 
 
