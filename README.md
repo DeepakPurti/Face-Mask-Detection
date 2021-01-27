@@ -1,3 +1,5 @@
+\[...\]
+
 ## :key: Results
 
 #### Our model gave 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
@@ -6,3 +8,5 @@
 
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
+
+\[...\]
