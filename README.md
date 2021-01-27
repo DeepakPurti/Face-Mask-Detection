@@ -11,8 +11,6 @@ This dataset consists of __4,555 images__ belonging to two classes:
 
 ## :key: Results
 
-Increased accuracy, decreased loss.
-
 #### The accuracy of the model is 96.96% with the training set and 94.79% with the test set.
 
 ![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/plot.png)
@@ -20,5 +18,9 @@ Increased accuracy, decreased loss.
 #### The overall accuracy of the model is ∼95%, as given in the classification report.
 
 ![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/classification_report.png)
+
+The accuracy has been increased from 93% (of the model in the original repository) to 95%, while the loss has been decreased
+(as apparent from the slope of the accuracy/loss training curve plot).
+
 
 \[...\]
