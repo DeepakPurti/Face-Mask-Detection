@@ -13,11 +13,11 @@ This dataset consists of __4,555 images__ belonging to two classes:
 
 Increased accuracy, decreased loss.
 
-#### Our model gives 93% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.0.0</code>
+#### The accuracy of the model is 96.96% with the training set and 94.79% with the test set.
 
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/plot.png)
 
-#### We got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
+#### The overall accuracy of the model is ∼95%, as given in the classification report.
+![](https://github.com/DeepakPurti/Face-Mask-Detection/blob/master/classification_report.png)
 
 \[...\]
