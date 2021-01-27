@@ -4,8 +4,8 @@
 The dataset used has been extended by adding more images.
 
 This dataset consists of __4,555 images__ belonging to two classes:
-*	__with_mask: 2,607 images__
-*	__without_mask: 1,948 images__
+*	__with_mask    :  2,607 images__
+*	__without_mask :  1,948 images__
 
 \[...\]
 
