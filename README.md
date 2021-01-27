@@ -30,6 +30,6 @@ while the loss has been decreased (as apparent from the accuracy/loss training c
 
 ---
 
-\  
+<br>
 
 \[...\]
