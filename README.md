@@ -7,6 +7,8 @@ This dataset consists of __4,555 images__ belonging to two classes:
 *	__with_mask    :  2,607 images__
 *	__without_mask :  1,948 images__
 
+---
+
 \[...\]
 
 ## :key: Results
@@ -22,5 +24,6 @@ This dataset consists of __4,555 images__ belonging to two classes:
 The accuracy has been increased from 93% (of the model in the original repository) to 95%,  
 while the loss has been decreased (as apparent from the accuracy/loss training curve plot).
 
+---
 
 \[...\]
