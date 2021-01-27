@@ -1,4 +1,4 @@
-## \[...\]
+\[...\]
 
 ---
 
@@ -11,7 +11,7 @@ This dataset consists of __4,555 images__ belonging to two classes:
 
 ---
 
-## \[...\]
+\[...\]
 
 ---
 
@@ -31,4 +31,4 @@ while the loss has been decreased (as apparent from the accuracy/loss training c
 ---
   
 
-## \[...\]
+\[...\]
