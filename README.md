@@ -5,7 +5,7 @@
 ## :file_folder: Dataset
 The dataset used was extended by adding more images (dataset in this repo is the original one).
 
-This dataset consists of __4,555 images__ belonging to two classes:
+The new dataset consists of __4,555 images__ belonging to two classes:
 *	__with_mask    :  2,607 images__
 *	__without_mask :  1,948 images__
 
